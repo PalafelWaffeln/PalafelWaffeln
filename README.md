@@ -1,4 +1,4 @@
-### Hi there 👋, I'm PalafelWaffeln
+###PalafelWaffeln
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 - 🔭 I’m currently working on my first Minecraft Mod 
@@ -10,8 +10,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalafelWaffeln)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PalafelWaffeln)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PalafelWaffeln&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PalafelWaffeln)  
 
-![Profile views](https://gpvc.arturio.dev/PalafelWaffeln)  
