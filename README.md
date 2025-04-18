@@ -3,10 +3,6 @@
 
 - - -
 
-I’m currently working on **my first minecraft mod**
-
-I'm currently learning **Java**
-
 Fun Fact: **I have no clue what I'm doing**
 
 - - -
